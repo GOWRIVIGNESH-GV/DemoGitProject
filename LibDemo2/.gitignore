@@ -25,3 +25,8 @@ project.fragment.lock.json
 *.DS_Store
 *.log
 *~
+
+obj/
+**/obj/
+bin/
+**/bin/
