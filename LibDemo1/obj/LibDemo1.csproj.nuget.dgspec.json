@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gv\\SOURCE\\Git\\Demo Projects\\LibDemo1\\LibDemo1.csproj": {}
+    "D:\\Gv\\SOURCE\\Git\\DemoProjects\\DemoGitProject\\LibDemo1\\LibDemo1.csproj": {}
   },
   "projects": {
-    "D:\\Gv\\SOURCE\\Git\\Demo Projects\\LibDemo1\\LibDemo1.csproj": {
+    "D:\\Gv\\SOURCE\\Git\\DemoProjects\\DemoGitProject\\LibDemo1\\LibDemo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gv\\SOURCE\\Git\\Demo Projects\\LibDemo1\\LibDemo1.csproj",
+        "projectUniqueName": "D:\\Gv\\SOURCE\\Git\\DemoProjects\\DemoGitProject\\LibDemo1\\LibDemo1.csproj",
         "projectName": "LibDemo1",
-        "projectPath": "D:\\Gv\\SOURCE\\Git\\Demo Projects\\LibDemo1\\LibDemo1.csproj",
+        "projectPath": "D:\\Gv\\SOURCE\\Git\\DemoProjects\\DemoGitProject\\LibDemo1\\LibDemo1.csproj",
         "packagesPath": "C:\\Users\\Naveen Arumugam\\.nuget\\packages\\",
-        "outputPath": "D:\\Gv\\SOURCE\\Git\\Demo Projects\\LibDemo1\\obj\\",
+        "outputPath": "D:\\Gv\\SOURCE\\Git\\DemoProjects\\DemoGitProject\\LibDemo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
