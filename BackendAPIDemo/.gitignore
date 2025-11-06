@@ -1,0 +1,27 @@
+# Visual Studio / .NET
+*.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS / editor temp files
+*.DS_Store
+*.log
+*~
